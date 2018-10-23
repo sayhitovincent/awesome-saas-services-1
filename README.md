@@ -17,6 +17,6 @@ A curated list of great software tools for developers and business owners
 
 [Box](https://www.box.com/) – Secure File Sharing, Storage, and Collaboration. Box is changing how you manage content across your business from simple file sharing to building custom apps.
 
-## Template
+## Productivity & Organization
 
-[]() – 
+[Reminder Bot](https://reminderbot.io/) - Receive regular grouped messages for daily, weekly or monthly routines. Once setup this chat bot will send you notifications to ensure that your tasks are completed and logged over time.
